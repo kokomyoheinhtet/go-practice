@@ -1,4 +1,4 @@
-module decks
+module ko-go-practice
 
 go 1.18
 
